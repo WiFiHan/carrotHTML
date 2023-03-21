@@ -1,3 +1,120 @@
+
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+body {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.search-word_4{
+  font-size: 16px;
+}
+
+.hot-search_4 {
+  display: flex;
+  justify-content: center;
+}
+.words_4 {
+  display: flex;
+  justify-content: center;
+}
+
+.word_4 {
+  padding-left: 50px;
+  padding-right: 10px;
+  margin-bottom: 30px;
+}
+
+.site-map_4 {
+  width: 55%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  padding-top: 48px;
+  padding-bottom: 25px;
+}
+
+.sites_4 {
+  width: 45%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.site_4 {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.app-down_4 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.app-download-text_4{
+  margin-bottom: 10px;
+}
+
+.down-button_4 {
+  width: 147px;
+  height: 44px;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+
+.down-text_4 {
+  margin: auto;
+  font-size: 14px;
+}
+
+.info_4 {
+  width: 55%;
+  margin: auto;
+  color: gray;
+  font-size: 13px;
+  display: flex;
+  padding-top: 15px;
+}
+
+.info-text_4 {
+  width: 65%;
+}
+
+.inquiry_4 {
+  margin-right: 20px;
+}
+
+.clause_4 {
+  margin-right: 8px;
+}
+
+p {
+  margin-top: 0px;
+}
+
+.info-icon_4 {
+  display: flex;
+}
+
+.icon_4 {
+  margin-right: 20px;
+	filter: opacity(0.5) drop-shadow(0 0 0 #f2f2f2);
+  display: flex;
+  justify-content: center;
+}
+
+.globe-icon_4{
+  filter: opacity(0.5) drop-shadow(0 0 0 #f2f2f2);
+}
+
+.lauguage_4 {
+  display: flex;
+  align-items: center; 
+}
+=======
 h5{
   margin: 0px;
   margin-top: 10px;
@@ -293,3 +410,4 @@ Second Container Starts Here
   font-size: 15px;
   margin-right: 15px;
 }
+>>>>>>> main

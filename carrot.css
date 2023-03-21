@@ -94,4 +94,202 @@ h5{
   background-color: lightgrey;
   color:black;
 
+.header_1 {
+  width: 100%;
+}
+
+.header_1 .headerbox_1 {
+  display: flex;
+  justify-content: space-evenly;
+  width: 70%;
+  height: 50px;
+  align-items: center;
+  padding-bottom: 15px;
+  margin-left: 15%;
+}
+
+.header_1 .logo_1 {
+  height: 100%;
+}
+
+.header_1 .used-button_1 {
+  border: none;
+  background-color: rgb(0, 0, 0, 0);
+  color: orange;
+  opacity: 100%;
+  font-weight: bold;
+}
+
+.header_1 .town-button_1 {
+  border: none;
+  background-color: rgb(0, 0, 0, 0);
+  color: black;
+  opacity: 100%;
+  font-weight: bold;
+}
+
+.header_1 .parttime-button_1 {
+  border: none;
+  background-color: rgb(0, 0, 0, 0);
+  color: black;
+  opacity: 100%;
+  font-weight: bold;
+}
+
+.header_1 .asset-button_1 {
+  border: none;
+  background-color: rgb(0, 0, 0, 0);
+  color: black;
+  opacity: 100%;
+  font-weight: bold;
+}
+
+.header_1 .usedcar-button_1 {
+  border: none;
+  background-color: rgb(0, 0, 0, 0);
+  color: black;
+  opacity: 100%;
+  font-weight: bold;
+}
+
+.header_1 .search_1 {
+  border: none;
+  border-radius: 5px;
+  background-color: #f2f3f6;
+  width: 280px;
+  height: 30px;
+}
+
+.header_1 .chat-button_1 {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: #ffffff;
+  width: 80px;
+  height: 30px;
+}
+
+/***
+First Container Starts Here
+***/
+
+.first-container_1 {
+  display: flex;
+  background-color: #fbf7f2;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 500px;
+  padding-bottom: 10px;
+}
+
+.text1-container_1 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  width: 30%;
+  padding-bottom: 10px;
+  padding-left: 20%;
+}
+
+.img1-container_1 {
+  width: 50%;
+  border-radius: 10px;
+}
+
+.img1_1 {
+  height: 100%;
+  border-radius: 10px;
+}
+
+.text1-1_1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.text1-2_1 {
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 18px;
+}
+
+.text1-3_1 {
+  font-size: 12px;
+}
+
+.text1-4_1 {
+  font-size: 12px;
+}
+
+/***
+Second Container Starts Here
+***/
+
+.second-container_1 {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 500px;
+  padding-bottom: 10px;
+}
+
+.text2-container_1 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  width: 50%;
+  padding-bottom: 10px;
+}
+
+.img2-container_1 {
+  width: 30%;
+  border-radius: 10px;
+  padding-left: 20%;
+}
+
+.img2_1 {
+  height: 100%;
+  border-radius: 10px;
+}
+
+.text2-1_1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.text2-2_1 {
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 18px;
+}
+
+.text2-3_1 {
+  font-size: 12px;
+}
+
+.button-container_1 {
+  margin-top: 18px;
+}
+
+.button2-1_1 {
+  border: none;
+  border-radius: 5px;
+  background-color: #f2f3f6;
+  height: 50px;
+  width: 150px;
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 15px;
+}
+
+.button2-2_1 {
+  border: none;
+  border-radius: 5px;
+  background-color: #f2f3f6;
+  height: 50px;
+  width: 200px;
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 15px;
 }
